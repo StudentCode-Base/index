@@ -15,6 +15,15 @@
     <script>
       // Your web app's Firebase configuration
       //add here
+       var firebaseConfig = {
+    apiKey: "AIzaSyBeHo1-5l2-bewAJbMcIRElV5-TFlkFwg0",
+    authDomain: "balloon-58e6a.firebaseapp.com",
+    databaseURL: "https://balloon-58e6a-default-rtdb.firebaseio.com",
+    projectId: "balloon-58e6a",
+    storageBucket: "balloon-58e6a.appspot.com",
+    messagingSenderId: "419563617856",
+    appId: "1:419563617856:web:d1dae02bc8445ee4a329a5"
+  };
       // Initialize Firebase
       firebase.initializeApp(firebaseConfig);
     </script>
